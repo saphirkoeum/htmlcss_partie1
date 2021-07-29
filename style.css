@@ -1,0 +1,20 @@
+h1, h2 {
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+table,td {
+  border: 1px solid #333;
+}
+
+thead, tfoot {
+  background-color: #333;
+  color: #fff;
+  font-size: 30px;
+}
+img{
+  width: 50%;
+}
+.column2{
+  text-align: center;
+  padding: 15px;
+}

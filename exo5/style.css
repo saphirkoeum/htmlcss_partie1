@@ -1,0 +1,46 @@
+h1 {
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+div {
+  float: left;
+  height: 50px;
+}
+.green {
+  background-color: green;
+  width: 80%;
+}
+.red {
+  background-color: red;
+  width: 20%;
+}
+.orange {
+  background-color: orange;
+  height: 100px;
+  width: 40%;
+}
+.grey {
+  background-color: grey;
+  width: 30%;
+}
+.yellow {
+  background-color: yellow;
+  width: 30%;
+}
+.purple {
+  background-color: purple;
+  width: 20%;
+}
+.pink {
+  background-color: pink;
+  width: 20%;
+}
+.brown {
+  background-color: brown;
+  width: 20%;
+}
+.navy {
+  background-color: navy;
+  height: 200px;
+  width: 100%;
+}
